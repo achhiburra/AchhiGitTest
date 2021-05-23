@@ -46,7 +46,8 @@
 			    <artifactId>junit</artifactId>
 			    <version>4.13.2</version>
 			    <scope>test</scope>
-			</dependency>
+			</dependency> 
+			
 			<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
 			<dependency>
 			    <groupId>io.cucumber</groupId>
@@ -54,14 +55,7 @@
 			    <version>6.10.3</version>
 			</dependency>
 			
-			<!-- https://mvnrepository.com/artifact/org.junit/junit5-engine -->
-<dependency>
-    <groupId>org.junit</groupId>
-    <artifactId>junit5-engine</artifactId>
-    <version>5.0.0-ALPHA</version>
-</dependency>
-			
-			
+	
 						<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
 			<dependency>
 			    <groupId>io.cucumber</groupId>
@@ -183,19 +177,19 @@
 </dependency>
 			
 						<!-- https://mvnrepository.com/artifact/org.testng/testng -->
-<dependency>
+		<dependency>
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>7.4.0</version>
     <scope>test</scope>
-</dependency>
+	</dependency>
 						
 						<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
-<dependency>
+	<dependency>
     <groupId>io.github.bonigarcia</groupId>
     <artifactId>webdrivermanager</artifactId>
     <version>4.4.3</version>
-</dependency>
+	</dependency>
 						
         
         
