@@ -47,6 +47,7 @@ public static WebDriver driver;
 	@Test
 	public void openbrowser() {
 		System.out.println("Hello world");
+		System.out.println("Hello world2");
 		
 	}
 	
